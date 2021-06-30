@@ -8,6 +8,7 @@ print(7)
 
 x = 4
 while x < 10:
+
     print('還在迴圈')
     print(x)
     x = x+1
